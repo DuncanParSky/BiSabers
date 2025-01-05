@@ -1,6 +1,8 @@
-# GaySabers
+# BiSabers
 
-Makes your sabers gay
+A fork of GaySabers that makes your sabers bi rather than gay
+This is currently untested
+It will still show up as GaySabers in Beat Saber because i haven't modified anything but the colours.
 
 Use `qpm-rust s build` to build
 Same goes for `qpm-rust s copy` and `qpm-rust s qmod`
